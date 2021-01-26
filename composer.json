@@ -1,0 +1,12 @@
+{
+    "name": "devaissamail/mail",
+    "description": "just for test",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Devaissamail\\Mail\\": "src/"
+        }
+    }
+}
